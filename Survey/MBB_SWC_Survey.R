@@ -32,12 +32,12 @@ CI <- binom.confint(proportion*N, N, conf.level = 0.95, methods = "exact")
 df.q2 <- data.frame(level, proportion, N, CI)
 
 ## plot results & save
-pdf("Q2.pdf",width=4.5,height=4)
+pdf("Q2.pdf",width=4.75,height=4)
 barplot2(df.q2$proportion, ylim=c(0,1), names.arg = df.q2$level, 
 		plot.ci = TRUE, ci.l=df.q2$lower, ci.u=df.q2$upper, 
 		ci.width=0.25, ci.lwd=1, xlab="Level", ylab="Proportion", 
 		col='lightblue4')
-title("I would be interested in a workshop teaching a \ncomputer programming language aimed at:")
+title("I would be interested in a workshop teaching \na computer programming language aimed at:")
 dev.off()
 
 
