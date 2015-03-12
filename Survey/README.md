@@ -6,9 +6,9 @@ want to learn? To answer this question I designed a short survey to answer this 
 From my small department, ~ 20% (30 people) were keen to fill out the survey and here is 
 what they said:
 
-![And the survey says...](fig/Q1.jpg)
-![](fig/Q2.jpg)
-![](fig/Q3.jpg)
+![And the survey says...](fig/Q1.jpg =100)
+![](fig/Q2.jpg =100)
+![](fig/Q3.jpg =100)
 
 As with most good things in life, the code for these plots can be found on Github: <URL>
 
