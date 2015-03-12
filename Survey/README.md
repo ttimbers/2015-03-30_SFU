@@ -6,9 +6,9 @@ want to learn? To answer this question I designed a short survey to answer this 
 From my small department, ~ 20% (30 people) were keen to fill out the survey and here is 
 what they said:
 
-![And the survey says...](fig/Q1.pdf)
-!(fig/Q2.pdf)
-!(fig/Q3.pdf)
+![And the survey says...](fig/Q1.jpg)
+![](fig/Q2.jpg)
+![](fig/Q3.jpg)
 
 As with most good things in life, the code for these plots can be found on Github: <URL>
 
@@ -29,7 +29,7 @@ they were interested in:
 * Perl
 
 My takeaway from this survey, people, well at least Molecular Biologists and Biochemists, 
-are most interested in learning R or Python (sorry Matlab!) and that we are on track 
+are most interested in learning R or Python (and not Matlab) and that we are on track 
 with the level of focus for these workshops, the majority of people are interested in 
 a workshop for novices. 
 
