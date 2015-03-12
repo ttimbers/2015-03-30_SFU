@@ -10,7 +10,7 @@ what they said:
 ![](fig/Q2.jpg)
 ![](fig/Q3.jpg)
 
-As with most good things in life, the code for these plots can be found on Github: <URL>
+As with most good things in life, the code for these plots can be found on Github: https://github.com/ttimbers/2015-03-30_SFU/blob/master/Survey/MBB_SWC_Survey.R
 
 I also asked survey participants to comment on any other computer programming and/or 
 data science topics you would be interested in learning about. Here’s what people said 
